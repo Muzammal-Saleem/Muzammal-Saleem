@@ -1,44 +1,27 @@
-### Hi there! 👋 I'm **Muhammad Muzammal Saleem**
+<h1 align="center">Hi there! 👋 I'm <a href="https://github.com/Muzammal-Saleem">Muhammad Muzammal Saleem</a></h1>
 
-🚀 **DSA Enthusiast | Problem Solver**  
+<p align="center">
+  🚀 <strong>DSA Enthusiast | Problem Solver</strong> 🚀  
+</p>
 
-I am passionate about **Data Structures & Algorithms** and love solving coding challenges. I'm always eager to learn new technologies and improve my skills. 
-
----
-
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-🛠 **Tools & Platforms:**  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFA116&width=500&lines=Passionate+about+Data+Structures+%26+Algorithms;Always+learning+and+improving!">
+</p>
 
 ---
 
-### 📌 Featured Profiles:
-- 🔥 **LeetCode Streak & Status:**  
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem)](https://leetcode.com/u/Muzammal-Saleem/)
+## 💻 Tech Stack & Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-- 🌟 **GitHub Stats & Top Languages:**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammal-Saleem&layout=compact&theme=dark)
-
----
-
-### 📫 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muzammal-saleem-9052a72ab/)  
-📩 **Email:** chmuzammal115@gmail.com  
-
----
-
-### 🎉 Fun Fact:
-💡 I enjoy solving complex problems and participating in coding competitions!
-
----
-
-⚡ **Let's Connect & Collaborate!** 🚀
+### 🛠 Tools & Platforms:
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/
