@@ -25,6 +25,3 @@ I'm a **DSA Enthusiast** passionate about solving complex problems and continuou
 
 ## 🔄 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Muzammal-Saleem&label=Profile%20Views&color=0e75b6&style=flat)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Muzammal-Saleem&theme=darkhub&no-bg=true&margin-w=15)
