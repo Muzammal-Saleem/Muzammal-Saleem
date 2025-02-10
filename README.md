@@ -24,4 +24,47 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white">
+</p>
+
+---
+
+## 📌 Featured Profiles:
+### 🔥 LeetCode Streak & Stats:
+<p align="center">
+  <a href="https://leetcode.com/u/Muzammal-Saleem/">
+    <img src="https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Fira+Code&ext=contest">
+  </a>
+</p>
+
+- **Total Problems Solved:** `XX+`
+- **LeetCode Contest Rating:** `XXXX`
+- **Current Streak:** `XX days`
+- **Max Streak:** `XX days`
+
+### 🌟 GitHub Stats & Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammal-Saleem&layout=compact&theme=dark">
+</p>
+
+---
+
+## 📫 Contact Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-muzammal-saleem-9052a72ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <br>
+  📩 <strong>Email:</strong> chmuzammal115@gmail.com  
+</p>
+
+---
+
+## 🎉 Fun Fact:
+💡 I love solving complex problems and participating in coding competitions! 🚀  
+
+---
+
+<p align="center">
+  ⚡ <strong>Let's Connect & Collaborate!</strong> ⚡  
+</p>
