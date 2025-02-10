@@ -15,7 +15,9 @@ I'm a **DSA Enthusiast** passionate about solving complex problems and continuou
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammal-Saleem&layout=compact&theme=dark)
 
 ## 🔥 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Karma&ext=heatmap&streak=true)
+
+> 🚀 **View more on my LeetCode Profile:** [LeetCode Profile](https://leetcode.com/u/Muzammal-Saleem/)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muzammal-saleem-9052a72ab/)
