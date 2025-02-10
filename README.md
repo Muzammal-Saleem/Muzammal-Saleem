@@ -33,14 +33,9 @@
 ### 🔥 LeetCode Streak & Stats:
 <p align="center">
   <a href="https://leetcode.com/u/Muzammal-Saleem/">
-    <img src="https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Fira+Code&ext=contest">
+    <img src="https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Fira+Code&ext=contest&animation=true">
   </a>
 </p>
-
-- **Total Problems Solved:** `XX+`
-- **LeetCode Contest Rating:** `XXXX`
-- **Current Streak:** `XX days`
-- **Max Streak:** `XX days`
 
 ### 🌟 GitHub Stats & Top Languages:
 <p align="center">
