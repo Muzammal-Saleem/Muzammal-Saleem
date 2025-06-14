@@ -12,11 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views" /> </p>
 
-- 💻 Software Engineer specializing in Data Structures & Algorithms
-- 🌱 Currently advancing expertise in Advanced DSA & System Design
-- ⚙️ Focused on designing scalable, high-performance systems
-- 🎯 Committed to developing robust solutions with measurable impact
-- 📫 Available for collaboration: chmuzammal115@gmail.com
+- 💻 Software Engineer | DSA Specialist
+- 🌱 Advancing in System Design & Advanced DSA
+- ⚙️ Building scalable, high-performance systems
+- 🎯 Creating robust solutions with impact
+- 📫 Open for collaboration: chmuzammal115@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
