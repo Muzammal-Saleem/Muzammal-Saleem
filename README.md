@@ -5,7 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Building+Solutions+One+Algorithm+at+a+Time;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
 
-
 </div>
 
 ---
@@ -13,17 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views" /> </p>
 
-
--  Software Engineer specializing in Data Structures & Algorithms.
-
-- 🌱 Currently advancing expertise in Advanced Data Structures & System Design.
-
-- ⚙️ Focused on designing scalable, high-performance systems.
-
-- 🎯 Committed to developing robust solutions with measurable impact.
-
-- 📫 Available for collaboration or inquiries: chmuzammal115@gmail.com.
-
+- 💻 Software Engineer specializing in Data Structures & Algorithms
+- 🌱 Currently advancing expertise in Advanced DSA & System Design
+- ⚙️ Focused on designing scalable, high-performance systems
+- 🎯 Committed to developing robust solutions with measurable impact
+- 📫 Available for collaboration: chmuzammal115@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,11 +29,9 @@
   </a>
 </p>
 
-
 ---
 
 ## 💻 **Tech Stack**
-
 
 <div align="center">
 
@@ -65,7 +56,6 @@
 
 ---
 
-
 ## 🔥 **LeetCode Journey**
 
 <div align="center">
@@ -73,21 +63,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Karma&ext=heatmap)
 
 **🏆 Current Rank: #586040 | 📊 Problems Solved: 200+**
-
-</div>
-
----
-
-
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muzammal-Saleem&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammal-Saleem&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muzammal-Saleem&theme=radical&border_radius=10)
 
 </div>
 
@@ -107,7 +82,6 @@
 </div>
 
 ---
-
 
 <div align="center">
 
