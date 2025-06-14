@@ -34,7 +34,7 @@ const muzammal = {
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=unicorn&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Karma&ext=heatmap)
 
 **🏆 Current Rank: #586040 | 📊 Problems Solved: 200+**
 
