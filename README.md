@@ -5,40 +5,37 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Building+Solutions+One+Algorithm+at+a+Time;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views)](https://github.com/Muzammal-Saleem)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rank%20%23586040-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Muzammal-Saleem/)
 
 </div>
 
 ---
+<img align="right" alt="Bilal" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-## 🎯 **About Me**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views" /> </p>
 
-```javascript
-const muzammal = {
-    currentRole: "Software Engineer & DSA Enthusiast",
-    dailyRoutine: ["☕ Coffee", "💻 Code", "🧠 Solve Problems", "📚 Learn"],
-    techInterests: ["Data Structures", "Algorithms", "System Design"],
-    lifeGoal: "Write code that makes a difference"
-};
-```
 
-- 🚀 Passionate about **Data Structures & Algorithms**
-- 💡 Love solving complex problems and optimizing solutions  
-- 🎯 Currently focusing on **Advanced DSA** and **System Design**
-- 📈 Consistent problem solver with **daily practice** on LeetCode
+-  Software Engineer specializing in Data Structures & Algorithms.
 
----
+- 🌱 Currently advancing expertise in Advanced Data Structures & System Design.
 
-## 🔥 **LeetCode Journey**
+- ⚙️ Focused on designing scalable, high-performance systems.
 
-<div align="center">
+- 🎯 Committed to developing robust solutions with measurable impact.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Karma&ext=heatmap)
+- 📫 Available for collaboration or inquiries: chmuzammal115@gmail.com.
 
-**🏆 Current Rank: #586040 | 📊 Problems Solved: 200+**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Muzammal115c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilalsa92402441" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muzammal-saleem-9052a72ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-bilal-saleem-a175412a4" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100065576260868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100065576260868" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muzammal_saleem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__bilalsaleem__/" height="30" width="40" /></a>
+     <a href="https://leetcode.com/u/Muzammal-Saleem" target="_blank">
+    <img align="center" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" alt="LeetCode" height="30" />
+  </a>
+</p>
+
 
 ---
 
@@ -68,6 +65,21 @@ const muzammal = {
 
 ---
 
+
+## 🔥 **LeetCode Journey**
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Karma&ext=heatmap)
+
+**🏆 Current Rank: #586040 | 📊 Problems Solved: 200+**
+
+</div>
+
+---
+
+
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -96,20 +108,6 @@ const muzammal = {
 
 ---
 
-## 🤝 **Let's Connect**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muzammal-saleem-9052a72ab/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Muzammal-Saleem/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chmuzammal115@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Muzammal115c)
-
-**💬 Open to collaborations, discussions, and new opportunities!**
-
-</div>
-
----
 
 <div align="center">
 
