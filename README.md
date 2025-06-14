@@ -12,7 +12,7 @@
 
 <div align="left" style="position: relative; overflow: hidden; width: 100%;">
 
-<img align="right" alt="Coding" width="300" style="max-width: 300px; height: auto;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="320" style="max-width: 320px; height: auto;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views" /> </p>
 
