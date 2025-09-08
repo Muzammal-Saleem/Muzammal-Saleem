@@ -34,30 +34,22 @@
 </div>
 
 ---
-
 ## 💻 **Tech Stack**
 
 <div align="center">
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript&perline=5" alt="Programming Languages" />
 
-**Frameworks & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### **Frontend & Frameworks**
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind&perline=4" alt="Frontend & Frameworks" />
 
+### **Database**
+<img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="Database" />
 
-**Development Environment**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![SSMS](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### **Development Environment**
+<img src="https://skillicons.dev/icons?i=vscode,idea&perline=2" alt="Development Environment" />
+
 
 </div>
 
