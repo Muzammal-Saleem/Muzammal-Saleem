@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind, mysql&perline=5" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind, mysql" alt="Programming Languages" />
 
 <img src="https://skillicons.dev/icons?i=&perline=1" alt="Database" />
 
