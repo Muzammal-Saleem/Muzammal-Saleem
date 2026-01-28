@@ -38,12 +38,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind, mysql" alt="Programming Languages" />
+<<img src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind,mysql,mongodb" alt="Programming Languages & Tech" />
 
-<img src="https://skillicons.dev/icons?i=&perline=1" alt="Database" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" alt="Databases" />
 
 <img src="https://skillicons.dev/icons?i=vscode,idea&perline=2" alt="Development Environment" />
-
 
 </div>
 
