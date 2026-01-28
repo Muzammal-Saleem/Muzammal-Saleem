@@ -3,8 +3,10 @@
 # Hi there, I'm Muhammad Muzammal Saleem! 👋
 ### DSA Enthusiast | Problem Solver | Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Building+Solutions+One+Algorithm+at+a+Time;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
-
+<img 
+  src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind,mysql,mongodb,vscode,idea&perline=8&size=60" 
+  alt="Tech Stack" 
+/>
 </div>
 
 ---
