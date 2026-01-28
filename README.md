@@ -7,6 +7,16 @@
   src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind,mysql,mongodb,vscode,idea&perline=8&size=60" 
   alt="Tech Stack" 
 />
+<img 
+  src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind,mysql,mongodb,vscode,idea&perline=8&size=60" 
+  alt="Tech Stack"
+/>
+<img 
+  src="https://example.com/path/to/cursor-icon.svg" 
+  alt="Cursor IDE" 
+  width="60" 
+  height="60"
+/>
 </div>
 
 ---
