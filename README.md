@@ -3,20 +3,18 @@
 # Hi there, I'm Muhammad Muzammal Saleem! 👋
 ### DSA Enthusiast | Problem Solver | Software Engineer
 
-<img 
-  src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind,mysql,mongodb,vscode,idea&perline=8&size=60" 
-  alt="Tech Stack" 
-/>
+
 </div>
 
 ---
-
 
 <div align="left" style="position: relative; overflow: hidden; width: 100%;">
 
 <img align="right" alt="Coding" width="320" style="max-width: 320px; height: auto;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views" /> 
+</p>
 
 - 💻 Software Engineer | DSA Specialist
 - 🌱 Advancing in System Design & Advanced DSA
@@ -26,24 +24,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Muzammal115c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muzammal-saleem-9052a72ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100065576260868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muzammal_saleem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Muzammal-Saleem" target="_blank"><img align="center" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" alt="LeetCode" height="30" /></a>
+<a href="https://x.com/Muzammal115c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muzammal-saleem-9052a72ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100065576260868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muzammal_saleem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Muzammal-Saleem" target="_blank"><img align="center" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" height="30" /></a>
 </p>
 
 </div>
 
 ---
+
 ## 💻 **Tech Stack**
 
 <div align="center">
 
 <img 
-  src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind,mysql,mongodb,vscode,idea&perline=0" 
+  src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind,mysql,mongodb,vscode,idea&perline=8&size=60" 
   alt="Tech Stack" 
-  style="display:flex; flex-wrap:wrap; gap:10px; cursor:pointer; max-width:100%;" 
 />
 
 </div>
