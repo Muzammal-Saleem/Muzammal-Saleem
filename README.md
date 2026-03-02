@@ -1,84 +1,89 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Muzammal Saleem! 👋
-### DSA Enthusiast | Problem Solver | Software Engineer
-
+# Muhammad Muzammal Saleem
+### Software Engineer | DSA Specialist | System Design Learner
 
 </div>
-
----
 
 <div align="left" style="position: relative; overflow: hidden; width: 100%;">
+  <img align="right" alt="Coding" width="320" style="max-width: 320px; height: auto;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views" />
+  </p>
 
-<img align="right" alt="Coding" width="320" style="max-width: 320px; height: auto;" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+### <img src="https://img.icons8.com/ios-filled/20/36BCF7/user.png"/> About Me
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Muzammal-Saleem&color=36BCF7&style=flat-square&label=Profile+Views" /> 
+- Software Engineer focused on data structures, algorithms, and scalable backend systems  
+- Strong foundation in C++, Java, and TypeScript  
+- Building high-performance, production-oriented applications  
+- Actively improving system design and distributed systems knowledge  
+- Open for collaboration: **chmuzammal115@gmail.com**
+
+</div>
+
+---
+
+### <img src="https://img.icons8.com/ios-filled/20/36BCF7/source-code.png"/> Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,typescript,javascript,c&perline=6&size=55" />
 </p>
 
-- 💻 Software Engineer | DSA Specialist
-- 🌱 Advancing in System Design & Advanced DSA
-- ⚙️ Building scalable, high-performance systems
-- 🎯 Creating robust solutions with impact
-- 📫 Open for collaboration: chmuzammal115@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Muzammal115c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muzammal-saleem-9052a72ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100065576260868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muzammal_saleem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Muzammal-Saleem" target="_blank"><img align="center" src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" height="30" /></a>
+### Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,mongodb,mysql&perline=4&size=55" />
 </p>
 
-</div>
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&perline=3&size=55" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,linux&perline=4&size=55" />
+</p>
+
+---
+### <img src="https://img.icons8.com/ios-filled/20/36BCF7/code.png"/> LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+- 200+ problems solved  
+- Focused on pattern recognition & optimized solutions  
 
 ---
 
-## 💻 **Tech Stack**
+### <img src="https://img.icons8.com/ios-filled/20/36BCF7/goal.png"/> Current Focus
 
-<div align="center">
-
-<img 
-  src="https://skillicons.dev/icons?i=typescript,java,cpp,c,python,javascript,nextjs,react,nodejs,bootstrap,tailwind,mysql,mongodb,vscode,idea&perline=8&size=60" 
-  alt="Tech Stack" 
-/>
-
-</div>
+- Advanced Data Structures  
+- Low-Level System Design  
+- Backend Architecture  
+- Writing cleaner, scalable code  
 
 ---
 
-## 🔥 **LeetCode Journey**
+### <img src="https://img.icons8.com/ios-filled/20/36BCF7/link.png"/> Connect
 
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Muzammal-Saleem?theme=dark&font=Karma&ext=heatmap)
-
-**🏆 Current Rank: #586040 | 📊 Problems Solved: 200+**
-
-</div>
-
----
-
-## 🎯 **Current Focus**
-
-<div align="center">
-
-| 🎯 **Goals 2024** | 📈 **Progress** |
-|-------------------|----------------|
-| Master Advanced DSA | 🟩🟩🟩⬜⬜ 60% |
-| System Design Fundamentals | 🟩🟩⬜⬜⬜ 40% |
-| Build Full-Stack Projects | 🟩🟩🟩🟩⬜ 80% |
-| Competitive Programming | 🟩🟩🟩⬜⬜ 60% |
-
-</div>
+<p align="center">
+<a href="https://x.com/Muzammal115c">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
+</a>
+<a href="https://www.linkedin.com/in/muzammal-saleem-9052a72ab/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+</a>
+<a href="https://leetcode.com/u/Muzammal-Saleem">
+  <img src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" height="30" />
+</a>
+</p>
 
 ---
 
 <div align="center">
 
 *"The best way to learn is to solve problems you don't know how to solve yet."*
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=white&animation=twinkling)
 
 </div>
