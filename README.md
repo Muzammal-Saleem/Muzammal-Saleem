@@ -41,8 +41,9 @@
 </p>
 
 ### Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git&perline=4&size=55" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,linux&perline=4&size=55" />
 </p>
 
 ---
