@@ -58,14 +58,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/ios-filled/20/36BCF7/goal.png"/> Current Focus
 
-- Advanced Data Structures  
-- Low-Level System Design  
-- Backend Architecture  
-- Writing cleaner, scalable code  
-
----
 
 ### <img src="https://img.icons8.com/ios-filled/20/36BCF7/link.png"/> Connect
 
